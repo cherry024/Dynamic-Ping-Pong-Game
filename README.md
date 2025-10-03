@@ -64,8 +64,8 @@ git clone https://github.com/cherry024/spotify-ui-clone.git
 
 ## 📸 Preview
 
-![Screenshot](./assests/screenshot1.jpg)
-![Screenshot](./assests/screenshot2.jpg)
+![Screenshot 1](./screenshot1.png)
+![Screenshot 2](./screenshot2.png)
 ---
 
 ## 📁 Assets Used
