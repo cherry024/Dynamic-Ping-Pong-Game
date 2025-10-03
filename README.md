@@ -43,7 +43,7 @@ This project focuses on core **game development concepts** like physics, collisi
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/cherry024/spotify-ui-clone.git
+git clone https://github.com/cherry024/Dynamic-Ping-Pong-Game
 ```
 
 2. Open `index.html` in any browser — no installation needed!
@@ -84,7 +84,6 @@ git clone https://github.com/cherry024/spotify-ui-clone.git
 * This is a frontend-only browser game built with pure web technologies.
 * Perfect for beginners exploring game dev or frontend logic building.
 * No external libraries or frameworks used.
-* 
 ---
 
 ## 👩‍💻 Author
