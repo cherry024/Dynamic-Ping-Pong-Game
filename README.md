@@ -46,7 +46,7 @@ This project focuses on core **game development concepts** like physics, collisi
 git clone https://github.com/cherry024/spotify-ui-clone.git
 ```
 
-4. Open `index.html` in any browser — no installation needed!
+2. Open `index.html` in any browser — no installation needed!
 
 ---
 
