@@ -38,8 +38,6 @@ This project focuses on core **game development concepts** like physics, collisi
 
 ## 🎮 How to Use
 
-## 🎮 How to Use
-
 1. Clone this repository:
 
 ```bash
