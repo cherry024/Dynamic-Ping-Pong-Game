@@ -43,13 +43,7 @@ This project focuses on core **game development concepts** like physics, collisi
 ```bash
 git clone https://github.com/cherry024/dynamic-ping-pong.git
 
-2. Navigate to the folder:
-
-```bash
-cd dynamic-ping-pong
-```
-
-3. Open `index.html` in any browser — no installation needed!
+2. Open `index.html` in any browser — no installation needed!
 
 ---
 
