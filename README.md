@@ -38,12 +38,15 @@ This project focuses on core **game development concepts** like physics, collisi
 
 ## 🎮 How to Use
 
+## 🎮 How to Use
+
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/cherry024/dynamic-ping-pong.git
+git clone https://github.com/cherry024/spotify-ui-clone.git
+```
 
-2. Open `index.html` in any browser — no installation needed!
+4. Open `index.html` in any browser — no installation needed!
 
 ---
 
@@ -52,9 +55,8 @@ git clone https://github.com/cherry024/dynamic-ping-pong.git
 * ⏱ Game loop handles animation frames
 * 🏐 Ball movement with velocity & bounce effects
 * 🕹️ Keyboard controls:
-        ~ Player 1: W (Up), S (Down)
-        ~ Player 2: Arrow Up, Arrow Down
-* 📉 Seekable progress bar
+     ~ Player 1: W (Up), S (Down)
+     ~ Player 2: Arrow Up, Arrow Down
 * 📊 Score updates automatically when a player misses the ball
 * 🌀 Game resets with increased difficulty
 
@@ -64,14 +66,11 @@ git clone https://github.com/cherry024/dynamic-ping-pong.git
 
 ![Screenshot](./assests/screenshot1.jpg)
 ![Screenshot](./assests/screenshot2.jpg)
-
-
 ---
 
 ## 📁 Assets Used
 
-* Screenshot(s) stored in /assets/ — stored in `/assets/`
-* Audio file – `sample-song.mp3`
+* Screenshot(s) stored in /assets/
 * Fonts – Google Fonts (if used)
 * Icons/graphics – Custom or free sources
 
@@ -82,7 +81,7 @@ git clone https://github.com/cherry024/dynamic-ping-pong.git
 * This is a frontend-only browser game built with pure web technologies.
 * Perfect for beginners exploring game dev or frontend logic building.
 * No external libraries or frameworks used.
-
+* 
 ---
 
 ## 👩‍💻 Author
@@ -94,4 +93,3 @@ git clone https://github.com/cherry024/dynamic-ping-pong.git
 
 🌐 [LinkedIn](https://www.linkedin.com/in/charishmaa/)
 🌐 [GitHub](https://github.com/cherry024)
-
