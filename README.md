@@ -36,48 +36,51 @@ This project focuses on core **game development concepts** like physics, collisi
 
 ---
 
-## 🎮 How to Play  
+## 🎮 How to Use
 
-1. Clone this repository:  
+1. Clone this repository:
 
 ```bash
 git clone https://github.com/cherry024/dynamic-ping-pong.git
+
+2. Navigate to the folder:
+
+```bash
+cd dynamic-ping-pong
+```
+
+3. Open `index.html` in any browser — no installation needed!
 
 ---
 
 ## 🔧 Functionality Highlights
 
-* 🎵 One playable song using the `<audio>` element
-* ⏯️ `togglePlay()` function for play/pause
-* ⏱ Real-time currentTime & duration display
+* ⏱ Game loop handles animation frames
+* 🏐 Ball movement with velocity & bounce effects
+* 🕹️ Keyboard controls:
+        ~ Player 1: W (Up), S (Down)
+        ~ Player 2: Arrow Up, Arrow Down
 * 📉 Seekable progress bar
-* 🔊 Volume slider control
+* 📊 Score updates automatically when a player misses the ball
+* 🌀 Game resets with increased difficulty
 
 ---
+
 ## 📸 Preview
 
 ![Screenshot](./assests/screenshot1.jpg)
 ![Screenshot](./assests/screenshot2.jpg)
 
----
-
-##🔧 Functionality Highlights
-
-⏱ Game loop handles animation frames
-🏐 Ball movement with velocity & bounce effects
-🕹️ Keyboard controls:
-Player 1: W (Up), S (Down)
-Player 2: Arrow Up, Arrow Down
-📊 Score updates automatically when a player misses the ball
-🌀 Game resets with increased difficulty
 
 ---
 
 ## 📁 Assets Used
 
-* Screenshot(s) stored in /assets/
+* Screenshot(s) stored in /assets/ — stored in `/assets/`
+* Audio file – `sample-song.mp3`
 * Fonts – Google Fonts (if used)
 * Icons/graphics – Custom or free sources
+
 ---
 
 ## 📌 Notes
@@ -97,3 +100,4 @@ Player 2: Arrow Up, Arrow Down
 
 🌐 [LinkedIn](https://www.linkedin.com/in/charishmaa/)
 🌐 [GitHub](https://github.com/cherry024)
+
